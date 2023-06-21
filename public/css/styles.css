@@ -8,6 +8,30 @@ main #section-two {
   color: green;
 }
 
+.cuadrado-1 {
+  background-color: #d31b1b;
+  width: 300px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.cuadrado-2 {
+  background-color: #1a8f83;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.cuadrado-3 {
+  background-color: #3477ab;
+  width: 600px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
 body {
   background-color: burlywood;
 }
